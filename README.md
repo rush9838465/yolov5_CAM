@@ -5,3 +5,6 @@
 1.detect_CAM.py中已经 下载好了yolov5s.pt模型在 CAM/model_files/yolov5s.pt<br>
 2.detect_CAM.py中已经准备好一张熊猫的图片在 CAM/test_images/img.png<br>
 3.detect_CAM.py运行结果会直接保存在 CAM/CAM_result    现在里面已经有我跑完熊猫结果的图片，可以先删除后再跑代码，对比小结果是否相同。<br>
+
+
+![image](CAM/CAM_result/2_class.jpg)
